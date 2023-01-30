@@ -3,6 +3,8 @@
 
 My name is Paweł Borkowy. My journey with software testing started in the middle of 2022. On this site I would like to share my gained experience within world of IT.
 
+At this moment I am looking for my first commercial experience. The next step is to gather knowledge and skills about automated tests in Cypress.
+
 ## Tools & Software
 
 * Jira, Trello
