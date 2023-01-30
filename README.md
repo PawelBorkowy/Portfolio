@@ -3,14 +3,6 @@
 
 My name is Paweł Borkowy. My journey with software testing started in the middle of 2022. On this site I would like to share my gained experience within world of IT.
 
-## Courses
-
-* Manual Testing - ifs&whiles
-* Practical course of software testing
-* Introduction to Git & GitHub
-* NodeJS - The Complete Guide
-* JavaScript from the ground up to the expert
-
 ## Tools & Software
 
 * Jira, Trello
@@ -21,6 +13,14 @@ My name is Paweł Borkowy. My journey with software testing started in the middl
 * JavaScript 
 * Node.js
 * Express.js
+
+## Courses
+
+* Manual Testing - ifs&whiles
+* Practical course of software testing
+* Introduction to Git & GitHub
+* NodeJS - The Complete Guide
+* JavaScript from the ground up to the expert
 
 ## Books
 
