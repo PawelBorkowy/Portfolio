@@ -3,7 +3,7 @@
 
 My name is Paweł Borkowy. My journey with software testing started in the middle of 2022. On this site I would like to share my gained experience within world of IT.
 
-At this moment I am looking for my first commercial experience. The next step is to gather knowledge and skills about automated tests in Cypress.
+At this moment I am looking for my first commercial experience. I am skilled in working under pressure and adapting to new situations and challenges. I'm looking for a job that will help me develop my skills as manual tester and take a career path to become Automation Tester with JavaScript in future.
 
 ## Tools & Software
 
@@ -47,4 +47,4 @@ At this moment I am looking for my first commercial experience. The next step is
 
 **Test cases**
 
-* [Test cases for platforma-testerska](https://docs.google.com/spreadsheets/d/1WQgW-N1fAYeZhGfJkiQRPHJCWVpwo19HIvsEqZoOaRw/edit?usp=sharing)
+* [Test cases for platforma-testerska](https://docs.google.com/spreadsheets/d/16sWSjyPzYYzSb3Cjth8eunHilsyU_tzj/edit?usp=sharing&ouid=115292359453859172556&rtpof=true&sd=true)
