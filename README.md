@@ -26,6 +26,7 @@ At this moment I am looking for my first commercial experience. I am skilled in 
 
 ## Books
 
+* Zawód Tester - R. Smilgin
 * ISTQB Foundation Level Sylabus
 
 ## Blogs I read
