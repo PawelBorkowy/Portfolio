@@ -44,7 +44,7 @@ At this moment I am looking for my first commercial experience. I am skilled in 
 
 **Bugs report**
 
-* [Bugs on platforma-testerska](https://drive.google.com/file/d/1dKx6LA3ZRSQWqORklKEKOgwrG85-Vng5/view?usp=sharing)
+* [Bugs on platforma-testerska](https://drive.google.com/file/d/1VMr28qFttBW2DosXfHudf1DhUGke5ktJ/view?usp=sharing)
 
 **Test cases**
 
