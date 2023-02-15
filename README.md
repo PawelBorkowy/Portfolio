@@ -3,7 +3,7 @@
 
 My name is Paweł Borkowy. My journey with software testing started in the middle of 2022. On this site I would like to share my gained experience within world of IT.
 
-At this moment I am looking for my first commercial experience. I am skilled in working under pressure and adapting to new situations and challenges. I'm looking for a job that will help me develop my skills as manual tester and take a career path to become Automation Tester in future.
+At this moment I am looking for my first commercial experience. I am skilled in working under pressure and adapting to fast changing environment and new challenges. I'm looking for a job that will help me develop my skills as manual tester and take a career path to become Automation Tester in future.
 
 ## Tools & Software
 
