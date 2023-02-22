@@ -32,6 +32,7 @@ At this moment I am looking for my first commercial experience. I am skilled in 
 ## Blogs I read
 
 * [testerzy.pl](https://testerzy.pl/)
+* [testuj.pl](https://testuj.pl/blog/)
 
 ## Facebook IT Groups
 
