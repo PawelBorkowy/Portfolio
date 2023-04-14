@@ -7,7 +7,8 @@ At this moment I am looking for my first commercial experience. I am skilled in 
 
 ## Tools & Software
 
-* Jira, Trello
+* Jira
+* Trello
 * Chrome DevTools 
 * Git, GitHub
 * SQL
